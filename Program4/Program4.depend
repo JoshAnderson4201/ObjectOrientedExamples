@@ -1,0 +1,204 @@
+# depslib dependency file v1.0
+1493933518 source:c:\cscs17\330\program4\program4\agent.cpp
+	"PlayerClass.h"
+	"Agent.h"
+	"CIA.h"
+	"DEA.h"
+	"NSA.h"
+	"rank.h"
+	<vector>
+	<map>
+	<fstream>
+	<iostream>
+	<cstddef>
+	<typeinfo>
+
+1493777006 c:\cscs17\330\program4\program4\playerclass.h
+	"gamespace.h"
+	"rank.h"
+	"dice.h"
+	"wpn.h"
+	<vector>
+	<map>
+	<fstream>
+	<iostream>
+
+1493657789 c:\cscs17\330\program4\program4\gamespace.h
+	<sstream>
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<cctype>
+	<vector>
+	<queue>
+	<set>
+	<map>
+	<utility>
+	<algorithm>
+
+1493657788 c:\cscs17\330\program4\program4\rank.h
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+	"gamespace.h"
+
+1493930021 c:\cscs17\330\program4\program4\dice.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<climits>
+	"gamespace.h"
+
+1493657787 c:\cscs17\330\program4\program4\wpn.h
+	<string>
+	<fstream>
+	<iostream>
+	<map>
+
+1493777014 c:\cscs17\330\program4\program4\agent.h
+	"rank.h"
+	"PlayerClass.h"
+
+1493777215 c:\cscs17\330\program4\program4\cia.h
+	"Agent.h"
+	"rank.h"
+
+1493777235 c:\cscs17\330\program4\program4\dea.h
+	"Agent.h"
+
+1493777296 c:\cscs17\330\program4\program4\nsa.h
+	"Agent.h"
+
+1493777750 source:c:\cscs17\330\program4\program4\cia.cpp
+	"Agent.h"
+	"CIA.h"
+	"rank.h"
+	<vector>
+	<map>
+	<fstream>
+	<iostream>
+	<cstddef>
+
+1493068699 source:c:\cscs17\330\program4\program4\criminal.cpp
+	"PlayerClass.h"
+	"Criminal.h"
+	"wpn.h"
+	<vector>
+	<map>
+	<fstream>
+	<iostream>
+	<cstddef>
+	<algorithm>
+
+1493776989 c:\cscs17\330\program4\program4\criminal.h
+	"wpn.h"
+	"PlayerClass.h"
+
+1493777774 source:c:\cscs17\330\program4\program4\dea.cpp
+	"Agent.h"
+	"DEA.h"
+	"rank.h"
+	<vector>
+	<map>
+	<fstream>
+	<iostream>
+	<cstddef>
+
+1492900860 source:c:\cscs17\330\program4\program4\dice.cpp
+	"dice.h"
+
+1493777803 source:c:\cscs17\330\program4\program4\drugdealer.cpp
+	"DrugDealer.h"
+	"rank.h"
+	<vector>
+	<map>
+	<fstream>
+	<iostream>
+	<cstddef>
+
+1493777252 c:\cscs17\330\program4\program4\drugdealer.h
+	"Criminal.h"
+
+1493777825 source:c:\cscs17\330\program4\program4\hitman.cpp
+	"PlayerClass.h"
+	"Criminal.h"
+	"HitMan.h"
+	"rank.h"
+	<vector>
+	<map>
+	<fstream>
+	<iostream>
+	<cstddef>
+
+1493777271 c:\cscs17\330\program4\program4\hitman.h
+	"Criminal.h"
+
+1493777846 source:c:\cscs17\330\program4\program4\loanshark.cpp
+	"PlayerClass.h"
+	"Agent.h"
+	"LoanShark.h"
+	"rank.h"
+	<vector>
+	<map>
+	<fstream>
+	<iostream>
+	<cstddef>
+
+1493777286 c:\cscs17\330\program4\program4\loanshark.h
+	"Criminal.h"
+
+1493948431 source:c:\cscs17\330\program4\program4\main.cpp
+	<iostream>
+	"hc4.h"
+
+1493922011 c:\cscs17\330\program4\program4\hc4.h
+	"p3.h"
+
+1492650315 c:\cscs17\330\program4\program4\p3.h
+	"PlayerClass.h"
+	"Agent.h"
+	"Criminal.h"
+	"CIA.h"
+	"DEA.h"
+	"NSA.h"
+	"DrugDealer.h"
+	"LoanShark.h"
+	"HitMan.h"
+
+1493777865 source:c:\cscs17\330\program4\program4\nsa.cpp
+	"PlayerClass.h"
+	"Agent.h"
+	"NSA.h"
+	"rank.h"
+	<vector>
+	<map>
+	<fstream>
+	<iostream>
+	<cstddef>
+
+1493933523 source:c:\cscs17\330\program4\program4\playerclass.cpp
+	"PlayerClass.h"
+	"gamespace.h"
+	"rank.h"
+	"dice.h"
+	"wpn.h"
+	"gamespace.h"
+	<vector>
+	<map>
+	<fstream>
+	<iostream>
+	<cstddef>
+
+1492985838 source:c:\cscs17\330\program4\program4\wpn.cpp
+	"wpn.h"
+
+1493947930 source:c:\cscs17\330\program4\program4\hc4.cpp
+	"p3.h"
+	"hc4.h"
+	<typeinfo>
+

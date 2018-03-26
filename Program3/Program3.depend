@@ -1,0 +1,193 @@
+# depslib dependency file v1.0
+1492987035 source:c:\cscs17\330\program3\program3\playerclass.cpp
+	"PlayerClass.h"
+	"gamespace.h"
+	"rank.h"
+	"dice.h"
+	"wpn.h"
+	<vector>
+	<map>
+	<fstream>
+	<iostream>
+	<cstddef>
+
+1493071119 c:\cscs17\330\program3\program3\playerclass.h
+	"gamespace.h"
+	"rank.h"
+	"dice.h"
+	"wpn.h"
+	<vector>
+	<map>
+	<fstream>
+	<iostream>
+
+1488920718 c:\cscs17\330\program3\program3\gamespace.h
+	<sstream>
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<cctype>
+	<vector>
+	<queue>
+	<set>
+	<map>
+	<utility>
+	<algorithm>
+
+1492899136 c:\cscs17\330\program3\program3\rank.h
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+	"gamespace.h"
+
+1488920720 c:\cscs17\330\program3\program3\dice.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<climits>
+	"gamespace.h"
+
+1488920711 c:\cscs17\330\program3\program3\wpn.h
+	<string>
+	<fstream>
+	<iostream>
+	<map>
+
+1493068257 source:c:\cscs17\330\program3\program3\agent.cpp
+	"PlayerClass.h"
+	"Agent.h"
+	"CIA.h"
+	"DEA.h"
+	"NSA.h"
+	"rank.h"
+	<vector>
+	<map>
+	<fstream>
+	<iostream>
+	<cstddef>
+	<typeinfo>
+
+1493068596 c:\cscs17\330\program3\program3\agent.h
+	"rank.h"
+	"PlayerClass.h"
+
+1493068575 source:c:\cscs17\330\program3\program3\cia.cpp
+	"Agent.h"
+	"CIA.h"
+	"rank.h"
+	<vector>
+	<map>
+	<fstream>
+	<iostream>
+	<cstddef>
+
+1493068870 c:\cscs17\330\program3\program3\cia.h
+	"Agent.h"
+	"rank.h"
+
+1493068699 source:c:\cscs17\330\program3\program3\criminal.cpp
+	"PlayerClass.h"
+	"Criminal.h"
+	"wpn.h"
+	<vector>
+	<map>
+	<fstream>
+	<iostream>
+	<cstddef>
+	<algorithm>
+
+1493068424 c:\cscs17\330\program3\program3\criminal.h
+	"wpn.h"
+	"PlayerClass.h"
+
+1492987897 source:c:\cscs17\330\program3\program3\testdriver.cpp
+	"DrugDealer.h"
+	"CIA.h"
+	"gamespace.h"
+	"rank.h"
+	"dice.h"
+	"wpn.h"
+	<vector>
+	<map>
+	<fstream>
+	<iostream>
+	<cstddef>
+
+1492900860 source:c:\cscs17\330\program3\program3\dice.cpp
+	"dice.h"
+
+1492985838 source:c:\cscs17\330\program3\program3\wpn.cpp
+	"wpn.h"
+
+1493068647 source:c:\cscs17\330\program3\program3\dea.cpp
+	"Agent.h"
+	"DEA.h"
+	"rank.h"
+	<vector>
+	<map>
+	<fstream>
+	<iostream>
+	<cstddef>
+
+1493068862 c:\cscs17\330\program3\program3\dea.h
+	"Agent.h"
+
+1493066772 source:c:\cscs17\330\program3\program3\drugdealer.cpp
+	"DrugDealer.h"
+	"rank.h"
+	<vector>
+	<map>
+	<fstream>
+	<iostream>
+	<cstddef>
+
+1493068847 c:\cscs17\330\program3\program3\drugdealer.h
+	"Criminal.h"
+
+1493068787 source:c:\cscs17\330\program3\program3\nsa.cpp
+	"PlayerClass.h"
+	"Agent.h"
+	"NSA.h"
+	"rank.h"
+	<vector>
+	<map>
+	<fstream>
+	<iostream>
+	<cstddef>
+
+1493068801 c:\cscs17\330\program3\program3\nsa.h
+	"Agent.h"
+
+1493066785 source:c:\cscs17\330\program3\program3\hitman.cpp
+	"PlayerClass.h"
+	"Criminal.h"
+	"HitMan.h"
+	"rank.h"
+	<vector>
+	<map>
+	<fstream>
+	<iostream>
+	<cstddef>
+
+1493068835 c:\cscs17\330\program3\program3\hitman.h
+	"Criminal.h"
+
+1493066801 source:c:\cscs17\330\program3\program3\loanshark.cpp
+	"PlayerClass.h"
+	"Agent.h"
+	"LoanShark.h"
+	"rank.h"
+	<vector>
+	<map>
+	<fstream>
+	<iostream>
+	<cstddef>
+
+1493068818 c:\cscs17\330\program3\program3\loanshark.h
+	"Criminal.h"
+

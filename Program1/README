@@ -1,0 +1,7 @@
+Josh -
+I edited your player1.h and player1.cpp 
+you did not have the right interface for three of the methods
+I corrected the problem so you now have a zimmer1.o
+DO NOT edit your header file and you can use this to link
+with your edited player1.cpp
+

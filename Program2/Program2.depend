@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1491183214 source:c:\cscs17\330\program2\program2\player2.cpp
+	"player2.h"
+	"gamespace.h"
+	"rank.h"
+	"dice.h"
+	"wpn.h"
+	<vector>
+	<map>
+	<fstream>
+	<iostream>
+	<cstddef>
+
+1490055466 c:\cscs17\330\program2\program2\player2.h
+	"gamespace.h"
+	"rank.h"
+	"dice.h"
+	"wpn.h"
+	<vector>
+	<map>
+	<fstream>
+	<iostream>
+
+1488920718 c:\cscs17\330\program2\program2\gamespace.h
+	<sstream>
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<cctype>
+	<vector>
+	<queue>
+	<set>
+	<map>
+	<utility>
+	<algorithm>
+
+1488920715 c:\cscs17\330\program2\program2\rank.h
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+	"gamespace.h"
+
+1488920720 c:\cscs17\330\program2\program2\dice.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<climits>
+	"gamespace.h"
+
+1488920711 c:\cscs17\330\program2\program2\wpn.h
+	<string>
+	<fstream>
+	<iostream>
+	<map>
+
+1490042394 source:c:\cscs17\330\program2\program2\testdriver.cpp
+	"player2.h"
+	"gamespace.h"
+	"rank.h"
+	"dice.h"
+	"wpn.h"
+	<vector>
+	<map>
+	<fstream>
+	<iostream>
+	<cstddef>
+
+1489960271 source:c:\cscs17\330\program2\program2\dice.cpp
+	"dice.h"
+
+1489194475 source:c:\cscs17\330\program2\program2\wpn.cpp
+	"wpn.h"
+
